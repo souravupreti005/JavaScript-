@@ -41,3 +41,17 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
+
+
+
+
+// ****************************************memory****************************************
+
+/*
+1.stack
+2.heap
+*/
+
+
+// stack => primitive 
+// heap=> non primitive
