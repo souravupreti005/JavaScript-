@@ -18,8 +18,8 @@ let state;
 // bigint
 // string => ""
 // boolean => true/false
-// null => standalone value
-// undefined => 
+// null => standalone value(forcefully)
+// undefined => initially the value is not defined
 // symbol => unique
 
 
