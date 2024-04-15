@@ -11,7 +11,7 @@ console.log(balance.toFixed(5)); // ==>100.00000 decimals value
 
 const otherNumber = 123.8966
 
-console.log(otherNumber.toPrecision(5));//return string value enter how many digit you want   ==>123.90123.90
+console.log(otherNumber.toPrecision(5));//return string value enter how many digit you want   ==>123.90
 
 
 const hundreds = 1000000
