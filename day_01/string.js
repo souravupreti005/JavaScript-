@@ -36,3 +36,13 @@ console.log(url.replace('%20', '-')) //https://hitesh.com/hitesh-choudhary
 console.log(url.includes('sundar'))//check the word  
 
 console.log(gameName.split('-')); //split the array and make a arrays [ 'hitesh', 'hc', 'com' ] 
+
+// string function:->
+// 1. str.toUpperCase(); to convert into upper case
+// 2. str.toLowerCase(); to convert into lowet
+// let str="   apnacollege    js     ";
+// console.log(str.trim())    startr and end space 
+// str.slice(start,end);
+// str.concat(str2);
+// str.replace("h","y");
+// str.charAt(0);
